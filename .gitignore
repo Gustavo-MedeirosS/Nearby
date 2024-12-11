@@ -6,7 +6,7 @@ build/
 local.properties
 
 # Arquivo secrets.xml
-app/src/main/res/secrets.xml
+app/src/main/res/secrets
 
 # Log/OS Files
 *.log
